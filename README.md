@@ -1,0 +1,2 @@
+# GeospatialRecList
+GeospatialのSessionRecordingをリストで管理する機能
