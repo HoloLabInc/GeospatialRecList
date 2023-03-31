@@ -58,3 +58,14 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Assets/Samples/
+/Assets/Samples.meta
+
+/Assets/Plugins/
+/Assets/Plugins.meta
+
+/Assets/ExtensionsAssets/
+/Assets/ExtensionsAssets.meta
+
+/Assets/XR/
+/Assets/XR.meta
