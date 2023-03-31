@@ -14,14 +14,14 @@ https://developers.google.com/ar/develop/geospatial?hl=ja
 2. ARCore Extentions を Package Managerからimport  
   https://github.com/google-ar/arcore-unity-extensions.git  
 3. Geospatial Sampleをimport  
-  ![alt](Documents\Images\sample-scene.png)  
+  ![alt](Documents/Images/sample-scene.png)  
 4. 下記のシーンを開く  
-  `Assets\Samples\ARCore Extensions\1.35.0\Geospatial Sample\Scenes\Geospatial.unity`
+  `Assets/Samples/ARCore Extensions/1.35.0/Geospatial Sample/Scenes/Geospatial.unity`
 5. 下記Prefabをシーンに追加する  
-  `Assets\SessionPlayback\Prefabs\SessionPlayback.prefab`
+  `Assets/SessionPlayback/Prefabs/SessionPlayback.prefab`
 6. SessionPlaybackのスクリプトにARSessionを追加
-  ![alt](Documents\Images\add-ar-session.png)  
-7. APIキーなどを、下記参考情報を参考に設定
+  ![alt](Documents/Images/add-ar-session.png)  
+7. APIキーなどを、下記参考情報を参考に設定  
 
 # 参考情報
  - https://developers.google.com/ar/develop/unity-arf/geospatial/enable-android?hl=ja
