@@ -1,0 +1,18 @@
+{
+    "name": "jp.co.hololab.geospatial_reclist",
+    "rootNamespace": "",
+    "references": [
+        "GUID:92703082f92b41ba80f0d6912de66115",
+        "GUID:a9420e37d7990b54abdef6688edbe313",
+        "GUID:9e6bdf94fcb245c585c26819fa23a202"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
