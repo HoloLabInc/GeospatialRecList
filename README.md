@@ -26,3 +26,15 @@ https://developers.google.com/ar/develop/geospatial?hl=ja
 # 参考情報
  - https://developers.google.com/ar/develop/unity-arf/geospatial/enable-android?hl=ja
  - https://zenn.dev/tkada/articles/04b44474149130
+
+# UPMでインポートする方法
+- Window > Package Managerで左上の＋ボタンを選択。
+- Add Package from git URL ...で下のリンクを入力し、Addボタンでインポートする。
+
+#### https
+```git+https://github.com/HoloLabInc/GeospatialRecList.git?path=GeospatialRecList/Assets/jp.co.hololab.geospatial_reclist/#create-upm```
+
+or
+
+#### ssh
+```git@github.com:HoloLabInc/GeospatialRecList.git?path=GeospatialRecList/Assets/jp.co.hololab.geospatial_reclist/#create-upm```
