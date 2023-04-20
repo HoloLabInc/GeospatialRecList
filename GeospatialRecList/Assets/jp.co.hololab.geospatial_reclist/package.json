@@ -1,0 +1,20 @@
+{
+    "name": "jp.co.hololab.geospatial_reclist",
+    "version": "1.0.0",
+    "displayName": "jp.co.hololab.geospatial_reclist",
+    "description": "jp.co.hololab.geospatial_reclist",
+    "unity": "2021.3",
+    "author": {
+        "name": "HoloLab Inc."
+    },
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample",
+            "path": "Samples~"
+        }
+    ],
+    "dependencies": {
+        "com.unity.xr.arfoundation": "4.2.7"
+    }
+}

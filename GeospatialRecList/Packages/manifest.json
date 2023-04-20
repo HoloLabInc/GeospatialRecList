@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.akihiro.upmeditor": "https://git@github.com/akihiro0105/UnityPackageManagerEditor.git?path=/Assets/com.akihiro.upmeditor/",
     "com.google.ar.core.arfoundation.extensions": "https://github.com/google-ar/arcore-unity-extensions.git",
     "com.unity.collab-proxy": "1.17.7",
     "com.unity.feature.ar": "1.0.0",

@@ -8,9 +8,6 @@ https://developers.google.com/ar/develop/geospatial?hl=ja
  - ARCoreのSessionを動画＋位置情報の形で保存する機能  
  - 後からそれを再生することで、デバッグが簡単になる  
  - 今回は、それらを複数リストで管理できる機能を実装した
- 
-# 動作イメージ
-https://user-images.githubusercontent.com/41198895/233312359-dc4947b4-e989-4708-a473-e54f71987184.mp4
 
 # 使い方
 1. Project Settings > XR Pluginを有効にして、ARCoreのチェックボックスをOnにする
@@ -29,15 +26,3 @@ https://user-images.githubusercontent.com/41198895/233312359-dc4947b4-e989-4708-
 # 参考情報
  - https://developers.google.com/ar/develop/unity-arf/geospatial/enable-android?hl=ja
  - https://zenn.dev/tkada/articles/04b44474149130
-
-# UPMでインポートする方法
-- Window > Package Managerで左上の＋ボタンを選択。
-- Add Package from git URL ...で下のリンクを入力し、Addボタンでインポートする。
-
-#### https
-```git+https://github.com/HoloLabInc/GeospatialRecList.git?path=GeospatialRecList/Assets/jp.co.hololab.geospatial_reclist```
-
-or
-
-#### ssh
-```git@github.com:HoloLabInc/GeospatialRecList.git?path=GeospatialRecList/Assets/jp.co.hololab.geospatial_reclist```

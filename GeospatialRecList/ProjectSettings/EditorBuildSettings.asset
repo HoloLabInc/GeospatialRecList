@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/SessionPlayback/Scenes/GeospatialRecList.unity
+    path: Assets/jp.co.hololab.geospatial_reclist/SessionPlayback/Scenes/GeospatialRecList.unity
     guid: 33c7629a63061af438d5bc4f7245e1af
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
