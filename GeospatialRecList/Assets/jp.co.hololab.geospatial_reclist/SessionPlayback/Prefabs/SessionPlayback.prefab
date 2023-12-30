@@ -1964,9 +1964,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'StartPlayback
-
-'
+  m_Text: StartPlayback
 --- !u!1 &5610186633116980827
 GameObject:
   m_ObjectHideFlags: 0
