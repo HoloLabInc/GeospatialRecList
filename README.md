@@ -41,3 +41,7 @@ or
 
 #### ssh
 ```git@github.com:HoloLabInc/GeospatialRecList.git?path=GeospatialRecList/Assets/jp.co.hololab.geospatial_reclist```
+
+# サポート端末
+GeospatialRecListは現在、Androidのみ対応としています。  
+iOSでもビルドは出来ますが、録画再生ともに動作しません。  
